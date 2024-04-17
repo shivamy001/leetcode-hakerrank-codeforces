@@ -1,0 +1,197 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="c0935682-ef27-4d44-a695-23fedbdd9092" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/CodePractice/AreaOfCircle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/CodePractice/CharacterPattern.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/CodePractice/GreaterNo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/CodePractice/HalfPyramidPattern.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/CodePractice/InvertedStarPattern.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/CodePractice/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/CodePractice/Multiple.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/CodePractice/NumbersOneTon.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/CodePractice/PrimeNo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/CodePractice/ReverseOfNumber.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/CodePractice/SquarePattern.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/CodePractice/StarPattern.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/CodePractice/evenodd.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Hackerrank/Hackerrank1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/leetcode/Sorban.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 3
+}</component>
+  <component name="ProjectId" id="2cGEo30wahAoHau0h2SOBCIXM5b" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application.AreaOfCircle.executor": "Run",
+    "Application.CharacterPattern.executor": "Run",
+    "Application.Factorial.executor": "Run",
+    "Application.FactorialOfNum.executor": "Run",
+    "Application.GreaterNo.executor": "Run",
+    "Application.Hackerrank1.executor": "Run",
+    "Application.HalfPyramidPattern.executor": "Run",
+    "Application.InvertedStarPattern.executor": "Run",
+    "Application.Main.executor": "Run",
+    "Application.Multiple.executor": "Run",
+    "Application.NumbersOneTon.executor": "Run",
+    "Application.PrimeNo (1).executor": "Run",
+    "Application.PrimeNo.executor": "Run",
+    "Application.ReverseOfNumber.executor": "Run",
+    "Application.SquarePattern.executor": "Run",
+    "Application.StarPattern.executor": "Run",
+    "Application.Test.executor": "Run",
+    "Application.evenodd.executor": "Run",
+    "Java Scratch.Main.executor": "Run",
+    "Java Scratch.scratch.executor": "Run",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "git-widget-placeholder": "master",
+    "kotlin-language-version-configured": "true",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "project.structure.last.edited": "Modules",
+    "project.structure.proportion": "0.0",
+    "project.structure.side.proportion": "0.0",
+    "vue.rearranger.settings.migration": "true"
+  },
+  "keyToStringList": {
+    "com.intellij.ide.scratch.ScratchImplUtil$2/New Scratch File": [
+      "JAVA",
+      "PLAIN_TEXT"
+    ]
+  }
+}]]></component>
+  <component name="RunManager" selected="Application.Main">
+    <configuration name="Factorial" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="UNNAMED_CLASS_CONFIGURATION" value="true" />
+      <option name="MAIN_CLASS_NAME" value="Factorial" />
+      <module name="leetcode-hackerrank-codeforces" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="FactorialOfNum" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="UNNAMED_CLASS_CONFIGURATION" value="true" />
+      <option name="MAIN_CLASS_NAME" value="FactorialOfNum" />
+      <module name="leetcode-hackerrank-codeforces" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="CodePractice.Main" />
+      <module name="leetcode-hackerrank-codeforces" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="CodePractice.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="PrimeNo (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="UNNAMED_CLASS_CONFIGURATION" value="true" />
+      <option name="MAIN_CLASS_NAME" value="PrimeNo" />
+      <module name="leetcode-hackerrank-codeforces" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="PrimeNo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="CodePractice.PrimeNo" />
+      <module name="leetcode-hackerrank-codeforces" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="CodePractice.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Main" />
+        <item itemvalue="Application.PrimeNo (1)" />
+        <item itemvalue="Application.PrimeNo" />
+        <item itemvalue="Application.Factorial" />
+        <item itemvalue="Application.FactorialOfNum" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-jdk-9f38398b9061-18abd8497189-intellij.indexing.shared.core-IU-241.14494.240" />
+        <option value="bundled-js-predefined-1d06a55b98c1-74d2a5396914-JavaScript-IU-241.14494.240" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="c0935682-ef27-4d44-a695-23fedbdd9092" name="Changes" comment="" />
+      <created>1707729686538</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1707729686538</updated>
+      <workItem from="1707729687783" duration="771000" />
+      <workItem from="1707900621435" duration="4000" />
+      <workItem from="1712298199502" duration="1881000" />
+      <workItem from="1712576086391" duration="21000" />
+      <workItem from="1712576228024" duration="249000" />
+      <workItem from="1712688359284" duration="323000" />
+      <workItem from="1712738655979" duration="8000" />
+      <workItem from="1712836932423" duration="2639000" />
+      <workItem from="1712908921824" duration="10000" />
+      <workItem from="1712988909031" duration="2079000" />
+      <workItem from="1713082096591" duration="3929000" />
+      <workItem from="1713199439497" duration="5630000" />
+      <workItem from="1713289439971" duration="5819000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
